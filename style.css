@@ -203,11 +203,25 @@ p{
     justify-content: center;
 }
 
-
 .image-gallery img{
     width: 250px;
     margin: 10px;
 }
+
+.footer{
+    width: 100%;
+    height: 100px;
+    padding: 20px 80px;
+    margin: 0;
+    background: #484872;
+    text-align: center;
+}
+
+.fotoer p{
+    color: whitesmoke;
+    margin: 20px auto;
+}
+
 /* Mobile device */
 @media only screen and (max-width: 850px ) {
     .navbar{
